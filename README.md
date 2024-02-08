@@ -1,4 +1,8 @@
 <!-- BEGIN_TF_DOCS -->
+## Information
+
+Module can be used to create ECS clustes with Fargate or EC2
+
 ## Requirements
 
 No requirements.
